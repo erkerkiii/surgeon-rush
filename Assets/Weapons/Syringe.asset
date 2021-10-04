@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e226a1c3ec5958647874494c5e7101d9, type: 3}
+  m_Name: Syringe
+  m_EditorClassIdentifier: 
+  weaponName: Syringe
+  damage: 5
+  view: {fileID: 1110748613299119358, guid: 0131655c65ebd954898979e245f6b502, type: 3}
